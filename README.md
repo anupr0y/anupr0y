@@ -4,11 +4,11 @@
 
 I made some amazing projects  using HTML, CSS, JAVASCRIPT and others Framework and Technologies. I think it helps you to create your own Project and your learning.
 
-Skills:  JAVASCRIPT/ REACT /BOOTSTRAPS / HTML / CSS
+Skills:  JAVASCRIPT / REACT / BOOTSTRAPS / HTML / CSS
 
 - 🔭 I’m currently working on My Portfolio  
 - 🌱 I’m currently learning Node JS 
-- 👯 I’m looking to collaborate on Twitter and LinkedIn  
+- 👯 I’m looking to collaborate on Web Development related Project's  
 - 🤔 I’m looking for help with my knowledge and skills  
 - 💬 Ask me about Front-end  Development  
 - 📫 How to reach me: connect on social medias  
